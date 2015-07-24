@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">AlertDialog</string>
+    
+    <string name="btn_text_date_time">Choose date and time</string>
+    <string name="btn_text_date">Choose date</string>
+    <string name="btn_text_time">Choose time</string>
+    
+	<string name="title_date_time">Choose date or time</string>
+    <string name="title_date">Choose date</string>
+    <string name="title_time">Choose time</string>
+
+</resources>

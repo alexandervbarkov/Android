@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SavingFiles</string>
+    
+    <string name="tv_name">Name</string>
+    <string name="tv_age">Age</string>
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
