@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/item_selected" >
+    
+	<TextView 
+	    android:id="@+id/tv_frag_records_list_list_item_title"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:padding="5dp"
+	    android:maxLines="1"
+	    android:ellipsize="end" />
+	
+	<ImageView 
+	    android:id="@+id/iv_frag_records_list_list_item_icon"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:paddingLeft="5dp"
+	    android:paddingRight="5dp"
+	    android:src="@android:drawable/ic_menu_mylocation"
+	    android:contentDescription="@string/iv_frag_records_list_tracking"
+	    android:background="@null" />
+    
+</LinearLayout>

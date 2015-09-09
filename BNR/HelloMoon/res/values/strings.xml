@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloMoon</string>
+    
+    <string name="btn_play">Play</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_stop">Stop</string>
+    
+    <string name="iv_description">Neil Armstrong stepping onto the moon.</string>
+    
+    <string name="toast_cannot_play">Cannot play this file!</string>
+
+</resources>

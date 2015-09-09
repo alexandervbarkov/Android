@@ -1,0 +1,80 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="24dp" />
+    
+	<LinearLayout 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    
+	    <ImageButton 
+	        android:id="@+id/ibtn_true"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/i_true"
+		    android:background="@null"
+		    android:padding="24dp"
+		    android:contentDescription="@string/cd_ibtn_true" />
+	    
+	    <ImageButton 
+	        android:id="@+id/ibtn_false"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/i_false"
+		    android:background="@null"
+		    android:padding="24dp"
+		    android:contentDescription="@string/cd_ibtn_false" />
+	    
+	    <ImageButton 
+	        android:id="@+id/ibtn_show_answer"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/i_question"
+		    android:background="@null"
+		    android:padding="24dp"
+		    android:contentDescription="@string/cd_ibtn_show_answer" />
+	    
+	</LinearLayout>
+	
+	<LinearLayout 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    
+	    <ImageButton
+		    android:id="@+id/ibtn_previous"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:src="@drawable/i_arrow_left"
+		    android:background="@null"
+		    android:padding="24dp"
+		    android:contentDescription="@string/cd_ibtn_previous" />
+	     
+	    <ImageButton
+		    android:id="@+id/ibtn_next"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:src="@drawable/i_arrow_right"
+		    android:background="@null"
+		    android:padding="24dp"
+		    android:contentDescription="@string/cd_ibtn_next" />
+	    
+	</LinearLayout>
+	
+	<TextView 
+	    android:id="@+id/tv_api_level"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:paddingTop="24dp"
+	    android:textAppearance="@style/TextAppearance.AppCompat.Light.Base.SearchResult" />
+	
+</LinearLayout>

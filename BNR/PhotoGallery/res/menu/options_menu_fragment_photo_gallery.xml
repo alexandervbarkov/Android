@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:id="@+id/optm_frag_photo_gallery_search"
+        android:title="@string/item_title_frag_photo_gallery_search"
+        android:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_search"
+        android:actionViewClass="android.widget.SearchView" />
+    
+    <item 
+        android:id="@+id/optm_frag_photo_gallery_clear"
+        android:title="@string/item_title_frag_photo_gallery_clear"
+        android:showAsAction="ifRoom" />
+    
+    <item 
+        android:id="@+id/optm_frag_photo_gallery_poll"
+        android:title="@string/item_title_frag_photo_gallery_start_poll"
+        android:showAsAction="never" />
+    
+    <item 
+        android:id="@+id/item_frag_photo_gallery_about"
+        android:title="@string/item_frag_photo_gallery_about"
+        android:showAsAction="never" />
+
+</menu>

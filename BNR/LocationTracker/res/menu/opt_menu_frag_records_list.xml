@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:id="@+id/item_frag_records_list_new_record"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/item_frag_records_list_new_record"
+        android:showAsAction="always" />
+    
+    <item 
+        android:id="@+id/item_frag_records_list_about"
+        android:title="@string/item_frag_records_list_about"
+        android:showAsAction="never" />
+
+</menu>

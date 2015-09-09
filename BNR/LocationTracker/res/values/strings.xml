@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Tracker</string>
+    
+    <string name="maps_api_key">AIzaSyBZ1nihLEbwny2wmbPLipCmYs3nwwtAJYg</string>
+    
+    <string name="title_frag_dialog_about">About</string>
+    
+    <string name="et_frag_tracker_title_hint">Enter title</string>
+    
+    <string name="iv_frag_tracker_duration">Duration</string>
+    <string name="iv_frag_tracker_distance">Distance</string>
+    <string name="iv_frag_tracker_current_speed">Current speed</string>
+    <string name="iv_frag_tracker_average_speed">Average speed</string>
+    <string name="iv_frag_records_list_tracking">Currently tracking</string>
+    
+    <string name="tv_frag_records_list_list_empty">Create a new record.</string>
+    <string name="tv_frag_dialog_about_text">This application was created by Alex Barkov. It is based on the RunTracker app from the 
+        <i>Android Programming: The Big Nerd Range Guide</i>. It contains solutions to all of the challenge plus much more.</string>
+    
+    <string name="toast_frag_tracker_gps_enabled">GPS Enabled</string>
+    <string name="toast_frag_tracker_gps_disabled">GPS Disabled</string>
+    
+    <string name="item_frag_records_list_new_record">New Record</string>
+    <string name="item_frag_records_list_delete_record">Delete Record</string>
+    <string name="item_frag_records_list_about">About</string>
+    <string name="item_frag_tracker_delete_record">Delete Record</string>
+    <string name="item_frag_tracker_about">About</string>
+    <string name="item_frag_tracker_metric">Use metric units</string>
+    <string name="item_frag_tracker_imperial">Use imperial units</string>
+    
+    <string name="label_frag_record_run_start">Start</string>
+    <string name="label_frag_record_run_finish">Finish</string>
+	<string name="label_frag_record_run_started_at">Started on %s</string>
+	<string name="label_frag_record_run_finished_at">Finished on %s</string>
+	
+	<string name="toast_frag_record_tracker_already_tracking">You can only track one record at a time.</string>
+	
+	<string name="notification_receiver_tracking_location_title">Tracking your location</string>
+	<string name="notification_receiver_tracking_location_text">Touch to view it</string>
+    
+</resources>

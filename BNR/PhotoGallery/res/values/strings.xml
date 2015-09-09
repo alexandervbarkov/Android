@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo Gallery</string>
+    
+    <string name="title_frag_dialog_about">About</string>
+    
+    <string name="item_title_frag_photo_gallery_search">Search</string>
+    <string name="item_title_frag_photo_gallery_clear">Clear</string>
+    <string name="item_title_frag_photo_gallery_start_poll">Enable Polling</string>
+    <string name="item_title_frag_photo_gallery_stop_poll">Disable Polling</string>
+    <string name="item_frag_photo_gallery_about">About</string>
+    
+    <string name="tv_frag_dialog_about_text">This application was created by Alex Barkov. It is based on the PhotoGallery app from the <i>Android Programming: The Big Nerd Range Guide</i>.</string>
+    
+    <string name="searchable_hint_frag_photo_gallery_search">Search</string>
+    
+    <string name="toast_total">images found.</string>
+    
+    <string name="notification_title_new_pictures">New PhotoGallery Images</string>
+    <string name="notification_text_total">You have new images in PhotoGallery.</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nerd Launcher</string>
+    
+    <string name="tv_empty">No applications to launch</string>
+
+    <string name="item_tasks">Running tasks</string>
+    
+    <string name="item_activities">Applications</string>
+    
+</resources>

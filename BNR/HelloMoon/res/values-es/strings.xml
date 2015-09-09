@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">HolaLuna</string>
+  
+  <string name="btn_play">Tocar</string>
+  <string name="btn_pause">Pausa</string>
+  <string name="btn_stop">Detener</string>
+  
+  <string name="iv_description">Neil Armstrong pisando la luna</string>
+  
+  <string name="toast_cannot_play">No se puede reproducir este archivo!</string>
+  
+</resources>
