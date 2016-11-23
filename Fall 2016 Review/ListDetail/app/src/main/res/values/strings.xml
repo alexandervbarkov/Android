@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListDetail</string>
+    <string name="btn_click_me">Click me</string>
+    <string name="action_share_title">Share</string>
+    <string name="item_suggestion">Suggestion</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+</resources>

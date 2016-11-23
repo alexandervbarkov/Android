@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageDownloader</string>
+    <string name="item_refresh_title">Refresh</string>
+</resources>
