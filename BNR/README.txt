@@ -1,5 +1,5 @@
 Author: Alex Barkov
-URL: github.com/alexandervbarkov/BNR
+URL: github.com/alexandervbarkov
 
 === Description ===
 
