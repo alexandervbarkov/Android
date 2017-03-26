@@ -23,3 +23,9 @@ Android development review.
 	SQLite database, cursors and cursor adapters, networking, XML parser, 
 	AsyncTask, material design with card views and recycler view, 
 	support libraries.
+	
+3. Odometer
+	System and application services review.
+	
+	Topics covered:
+	Bound services and location service.
